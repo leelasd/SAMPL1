@@ -1,0 +1,47 @@
+HEADER    NONAME 30-Dec-15                                              NONE   1
+TITLE                                                                   NONE   2
+AUTHOR    Apache                                                        NONE   3
+REVDAT   1  30-Dec-15     0                                             NONE   4
+ATOM      1  C           0       1.873  -1.573  -0.492  0.00  0.00           C+0
+ATOM      2  C           0       0.626  -1.324   0.372  0.00  0.00           C+0
+ATOM      3  C           0       0.852   0.061   1.046  0.00  0.00           C+0
+ATOM      4  C           0       2.280   0.493   0.714  0.00  0.00           C+0
+ATOM      5  C           0       2.992  -0.816   0.278  0.00  0.00           C+0
+ATOM      6 Cl           0       3.520  -1.763   1.717  0.00  0.00          Cl+0
+ATOM      7 Cl           0       2.391   1.771  -0.536  0.00  0.00          Cl+0
+ATOM      8  C           0      -0.225   0.961   0.390  0.00  0.00           C+0
+ATOM      9  C           0      -1.522   0.406   1.029  0.00  0.00           C+0
+ATOM     10  C           0      -1.746  -0.793   0.519  0.00  0.00           C+0
+ATOM     11  C           0      -0.634  -1.103  -0.503  0.00  0.00           C+0
+ATOM     12  C           0      -0.441   0.361  -1.041  0.00  0.00           C+0
+ATOM     13 Cl           0      -1.975   0.983  -1.785  0.00  0.00          Cl+0
+ATOM     14 Cl           0       0.939   0.547  -2.173  0.00  0.00          Cl+0
+ATOM     15 Cl           0      -1.015  -2.373  -1.723  0.00  0.00          Cl+0
+ATOM     16 Cl           0      -3.064  -1.846   0.924  0.00  0.00          Cl+0
+ATOM     17 Cl           0      -2.494   1.227   2.205  0.00  0.00          Cl+0
+ATOM     18 Cl           0      -0.007   2.745   0.516  0.00  0.00          Cl+0
+ATOM     19  H           0       2.108  -2.646  -0.500  0.00  0.00           H+0
+ATOM     20  H           0       1.772  -1.220  -1.502  0.00  0.00           H+0
+ATOM     21  H           0       0.484  -2.116   1.118  0.00  0.00           H+0
+ATOM     22  H           0       0.702  -0.012   2.139  0.00  0.00           H+0
+ATOM     23  H           0       2.769   0.850   1.641  0.00  0.00           H+0
+ATOM     24  H           0       3.831  -0.601  -0.378  0.00  0.00           H+0
+CONECT    1    2    5   19   20                                         NONE  29
+CONECT    2    1    3   11   21                                         NONE  30
+CONECT    3    2    4    8   22                                         NONE  31
+CONECT    4    3    5    7   23                                         NONE  32
+CONECT    5    4    1    6   24                                         NONE  33
+CONECT    6    5    0    0    0                                         NONE  34
+CONECT    7    4    0    0    0                                         NONE  35
+CONECT    8    3    9   12   18                                         NONE  36
+CONECT    9    8   10   17    0                                         NONE  37
+CONECT   10    9   11   16    0                                         NONE  38
+CONECT   11   10    2   12   15                                         NONE  39
+CONECT   12   11    8   13   14                                         NONE  40
+CONECT   13   12    0    0    0                                         NONE  41
+CONECT   14   12    0    0    0                                         NONE  42
+CONECT   15   11    0    0    0                                         NONE  43
+CONECT   16   10    0    0    0                                         NONE  44
+CONECT   17    9    0    0    0                                         NONE  45
+CONECT   18    8    0    0    0                                         NONE  46
+END                                                                     NONE  47
